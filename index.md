@@ -1,3 +1,3 @@
 ## Deeplinking scenarios for Rabobank
 
-[LostCard](https://https://bankieren-acpt3.rabobank.nl/bankierenplus/deeplinking/lostcard/start?tab=1)
+[LostCard](https://bankieren-acpt3.rabobank.nl/bankierenplus/deeplinking/lostcard/start?tab=1)
